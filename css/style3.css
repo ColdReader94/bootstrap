@@ -1,3 +1,8 @@
+.col-md-3 input {
+	vertical-align: top; 
+	margin-top: 20px;
+}
+
 .e-mail {
 	display: inline-block;
 	width: 50px;
